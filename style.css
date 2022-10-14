@@ -30,6 +30,10 @@ body {
   box-shadow: 0 4px 30px #D245;
 }
 
+.btn-portfolio{
+  background: linear-gradient(45deg, rgb(255, 220, 25), rgb(255, 115, 0));
+}
+
 .wrapper {
   display: flex;
   height: 100vh;
