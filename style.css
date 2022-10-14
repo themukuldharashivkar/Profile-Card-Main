@@ -24,11 +24,11 @@ body {
 }
 
 .btn-portfolio{
-  background: linear-gradient(45deg, rgb(255, 220, 25), rgb(255, 115, 0));
+  background: linear-gradient(45deg, rgb(70, 70, 70), rgb(22, 22, 22));
 }
 
 .btn-email{
-  background: linear-gradient(45deg, rgb(255, 220, 25), rgb(255, 0, 170));
+  background: linear-gradient(45deg, rgb(171, 0, 206), rgb(255, 0, 170));
 }
 
 .wrapper {
